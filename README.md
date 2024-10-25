@@ -13,7 +13,7 @@
 
 <h3>🌐 Let's Connect!</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tristan-ehron-tumbaga-b42478175/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tristan-ehron-tumbaga-b42478175/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.tristanehrontumbaga.xyz/"><img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
