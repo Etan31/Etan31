@@ -66,10 +66,12 @@
 </p>
 
 <h3>📊 GitHub Stats</h3>
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=etan31&show_icons=true&locale=en&layout=compact"
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=etan31&show_icons=true&locale=en&layout=compact"
    alt="etan31" />
-   <img src="https://github-readme-stats.vercel.app/api?username=etan31&show_icons=true&locale=en"
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=etan31&show_icons=true&locale=en"
    alt="etan31" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=etan31&" alt="etan31" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=etan31&" alt="etan31" />
 </p>
