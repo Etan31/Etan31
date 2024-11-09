@@ -17,6 +17,8 @@
   <a href="https://www.tristanehrontumbaga.xyz/"><img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
+<img src="https://camo.githubusercontent.com/99b34ed299ad93581aeb11d7b5a0a358063f26305969cdc3fae6a22f0cd2d747/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
          src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> <a
