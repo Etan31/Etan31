@@ -1,28 +1,30 @@
   <p align="center"><a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tristan+Ehron+A.+Tumbaga"
-            alt="Typing SVG" /></a></p>
-   <div style="display: flex; align-items: center; justify-content: center;">
-      <div style="flex: 1; padding-right: 20px;">
-         <h3>I am a web developer who specializes in creating solid server-side solutions as well as exceptional
-            websites. Building scalable, effective, and high-quality applications is my area of expertise, and I
-            constantly provide amazing online experiences.</h3>
-         <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
-         <p>- 📫 How to reach me <a href="mailto:tumbagatristanehron31@gmail.com">tumbagatristanehron31@gmail.com</a></p>
-         <p>- 📄 Know about my experiences <a href="https://github.com/Etan31/resume_file/blob/5991ab67c9682be63599b9b02abc3455add10662/Tristan_Ehron_Tumbaga_Resume.pdf"> Here is my Resume </a></p>
-         <h3>🌐 Let's Connect!</h3>
-         <p align="center">
-            <a href="https://www.linkedin.com/in/tristan-ehron-tumbaga-b42478175/"><img
-                  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-            <a href="https://www.tristanehrontumbaga.xyz/"><img
-                  src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-         </p>
-      </div>
-      <div style="flex: 1; text-align: center;">
-         <img width="300"
-            src="https://camo.githubusercontent.com/99b34ed299ad93581aeb11d7b5a0a358063f26305969cdc3fae6a22f0cd2d747/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966"
-            alt="male coding image" />
-      </div>
-   </div>
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tristan+Ehron+A.+Tumbaga"
+      alt="Typing SVG" /></a>
+   </p>
+
+
+<p align="left">
+   <h3>I am a web developer who specializes in creating solid server-side solutions as well as exceptional websites. Building scalable, effective, and high-quality applications is my area of expertise, and I constantly provide amazing online experiences.</h3>
+  <p align="right">
+   <img align="right" width="300" src="https://camo.githubusercontent.com/99b34ed299ad93581aeb11d7b5a0a358063f26305969cdc3fae6a22f0cd2d747/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966" alt="male coding image" />
+</p>
+   <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
+   <p>- 🌱 I’m currently proficient in **Full-Stack Web Development.**</p>
+    <p>- 👯 I’m looking to collaborate on **Open Source Projects**</p>
+   <p>- 📫 How to reach me <a href="mailto:tumbagatristanehron31@gmail.com">tumbagatristanehron31@gmail.com</a></p>
+   <p>- 📄 Know about my experiences <a href="https://github.com/Etan31/resume_file/blob/5991ab67c9682be63599b9b02abc3455add10662/Tristan_Ehron_Tumbaga_Resume.pdf">Here is my Resume</a></p>
+</p>
+
+<p align="center">
+   <h3>🌐 Let's Connect!</h3>
+   <a href="https://www.linkedin.com/in/tristan-ehron-tumbaga-b42478175/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="https://www.tristanehrontumbaga.xyz/">
+      <img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+   </a>
+</p>
 
    <h3 align="left">Languages and Tools:</h3>
    <p align="center"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
