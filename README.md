@@ -10,7 +10,7 @@
    <img align="right" width="300" src="https://camo.githubusercontent.com/99b34ed299ad93581aeb11d7b5a0a358063f26305969cdc3fae6a22f0cd2d747/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966" alt="male coding image" />
 </p>
    <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
-   <p>- 🌱 I’m currently proficient in **Full-Stack Web Development.**</p>
+   <p>- 🌱 I’m currently proficient in **Full-Stack Web Development.** </p>
     <p>- 👯 I’m looking to collaborate on **Open Source Projects**</p>
    <p>- 📫 How to reach me <a href="mailto:tumbagatristanehron31@gmail.com">tumbagatristanehron31@gmail.com</a></p>
    <p>- 📄 Know about my experiences <a href="https://github.com/Etan31/resume_file/blob/5991ab67c9682be63599b9b02abc3455add10662/Tristan_Ehron_Tumbaga_Resume.pdf">Here is my Resume</a></p>
