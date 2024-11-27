@@ -14,6 +14,8 @@
    <p>- 📫 How to reach me <a href="mailto:tumbagatristanehron31@gmail.com">tumbagatristanehron31@gmail.com</a></p>
    <p>- 📄 Know about my experiences <a href="https://github.com/Etan31/resume_file/blob/5991ab67c9682be63599b9b02abc3455add10662/Tristan_Ehron_Tumbaga_Resume.pdf">Here is my Resume</a></p>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etan31&label=Profile%20views&color=0e75b6&style=flat" alt="etan31" /> </p>
+
 
 <p align="center">
    <h3>🌐 Let's Connect!</h3>
