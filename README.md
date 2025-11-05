@@ -22,7 +22,7 @@
    <a href="https://www.linkedin.com/in/tristan-ehron-tumbaga-b42478175/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a href="https://www.tristanehrontumbaga.xyz/">
+   <a href="https://www.tristanehron.xyz/">
       <img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
    </a>
 </p>
@@ -79,10 +79,7 @@
             alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-            alt="webpack" width="40" height="40" /> </a>
+         </a>
    </p>
 
    <h3>📊 GitHub Stats</h3>
